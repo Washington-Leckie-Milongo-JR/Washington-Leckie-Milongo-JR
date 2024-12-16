@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm WASHINGTON LECKIE MILONGO</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=washington-leckie-milongo-jr&label=Profile%20views&color=0e75b6&style=flat" alt="washington-leckie-milongo-jr" /> </p>
 
-- 🔭 I’m currently working on **responsible Website development**
-
-- 🌱 I’m currently learning **Flutter and Vue.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **Website development**
 
-- 📫 How to reach me **wlmilongo@gmail.com**
+- 📫 How to reach me **washingtonleckie74@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
