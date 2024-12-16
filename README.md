@@ -66,8 +66,8 @@
 ---
 
 <h3 align="left">📂 Technical Projects:</h3>
-- **Case Assignment System for Courts**  
-  *Role: Lead Frontend Developer*  
+**Case Assignment System for Courts**  
+  **Role: Lead Frontend Developer** 
   - Developed a web-based application for automating case distribution in the Court of Appeal of Kenya.  
   - Designed responsive user interfaces and created interactive dashboards for judges and administrators.  
   - Worked with backend developers to integrate APIs and enabled real-time updates on case assignments.  
