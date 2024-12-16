@@ -18,9 +18,8 @@
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-
-<a href="https://github.com/Washington-Leckie-Milongo-JR" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" />
+  <a href="https://github.com/Washington-Leckie-Milongo-JR" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Octicons-mark-github.svg" alt="GitHub" width="40" height="40" />
   </a>
 </p>
 
