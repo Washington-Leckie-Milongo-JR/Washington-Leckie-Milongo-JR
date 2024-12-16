@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Washington Leckie Milongo</h1>
+<h1 align="center">Hi 👋, I'm WASHINGTON LECKIE MILONGO JR.</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=washington-leckie-milongo-jr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 ---
 
-- 🌱 **Currently Learning:** Vue.js and advanced frontend development.  
+- 🌱 **Skilled in:** JavaScript, Vue.js, and modern frontend technologies.
 
-- 💬 **Ask Me About:** Responsive Web Design, Frontend Development, and crafting engaging user experiences.  
+- 💬 **Ask Me About:** Responsive Web Design, Frontend Development, crafting engaging user experiences, and data visualization.
 
-- 🎯 **Career Objective:** To contribute to impactful web development projects by leveraging my skills in HTML5, CSS3, JavaScript, Bootstrap, and Vue.js.  
+- 🎯 **Career Objective:** To contribute to impactful web development projects by leveraging my skills in HTML5, CSS3, JavaScript, Bootstrap, Vue.js, **PHP**, **MySQL**, and **Excel**.
 
 - 📫 **How to Reach Me:**  
-  [📧 Email Me](mailto:washingtonleckie74@gmail.com)  
+  [📧 Email Me] washingtonleckie74@gmail.com
 
 ---
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-<!-- <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
 </a> -->
 <a href="https://github.com/washington-leckie-milongo-jr" target="_blank">
@@ -45,6 +45,15 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -63,12 +72,12 @@
   *Role: Lead Frontend Developer*  
   - Developed a web-based application for automating case distribution in the Court of Appeal of Kenya.  
   - Designed responsive user interfaces and created interactive dashboards for judges and administrators.  
-  - Worked with back-end developers to integrate APIs and enabled real-time updates on case assignments.  
+  - Worked with backend developers to integrate APIs and enabled real-time updates on case assignments.  
   - Conducted user testing and applied feedback for UI optimization.  
 
 ---
 
 ### 🌱 **Learning & Development:**  
-- Continuously expanding my skill set in **Vue.js** and exploring modern frameworks to create intuitive and engaging user interfaces.  
+- Continuously expanding my skill set in **Vue.js**, **JavaScript**, **PHP**, **MySQL**, **Excel**, and exploring modern frameworks to create intuitive and engaging user interfaces.  
 
 ---
