@@ -7,9 +7,9 @@
 
 - 🌱 **Skilled in:** JavaScript, Vue.js, and modern frontend technologies.
 
-- 💬 **Ask Me About:** Responsive Web Design, Frontend Development, crafting engaging user experiences, and data visualization.
+- 💬 **Ask Me About:** Responsive Web Design, Frontend Development, crafting engaging user experiences and Data Visualization.
 
-- 🎯 **Career Objective:** To contribute to impactful web development projects by leveraging my skills in HTML5, CSS3, JavaScript, Bootstrap, Vue.js, **PHP**, **MySQL**, and **Excel**.
+- 🎯 **Career Objective:** To contribute to impactful web development projects by leveraging my skills in **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, **Vue.js**, **PHP**, **MySQL** and **Excel**.
 
 - 📫 **How to Reach Me:**  
   [📧 Email Me] washingtonleckie74@gmail.com
@@ -66,6 +66,7 @@
 ---
 
 <h3 align="left">📂 Technical Projects:</h3>
+
 **Case Assignment System for Courts**  
   **Role: Lead Frontend Developer** 
   - Developed a web-based application for automating case distribution in the Court of Appeal of Kenya.  
