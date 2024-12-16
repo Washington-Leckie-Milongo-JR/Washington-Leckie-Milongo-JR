@@ -12,7 +12,7 @@
 - 🎯 **Career Objective:** To contribute to impactful web development projects by leveraging my skills in **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, **Vue.js**, **PHP**, **MySQL** and **Excel**.
 
 - 📫 **How to Reach Me:**  
-  [📧 Email Me] washingtonleckie74@gmail.com
+  [📧 Email Me](mailto:washingtonleckie74@gmail.com)
 
 ---
 
@@ -77,6 +77,6 @@
 ---
 
 ### 🌱 **Learning & Development:**  
-- Continuously expanding my skill set in **Vue.js**, **JavaScript**, **PHP**, **MySQL**, **Excel**, and exploring modern frameworks to create intuitive and engaging user interfaces.  
+- Continuously expanding my skill set in **Vue.js**, **JavaScript**, **PHP**, **MySQL**, **Excel** and exploring modern frameworks to create intuitive and engaging user interfaces.  
 
 ---
