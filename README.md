@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WASHINGTON LECKIE MILONGO JR.</h1>
-<u><h3 align="center">A Passionate Frontend Developer</h3></u>
+<h3 align="center"><u>A Passionate Frontend Developer.</u></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=washington-leckie-milongo-jr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
