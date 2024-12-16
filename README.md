@@ -18,12 +18,10 @@
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-<!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
-</a> -->
-<a href="https://github.com/washington-leckie-milongo-jr" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" />
-</a>
+
+<a href="https://github.com/Washington-Leckie-Milongo-JR" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" />
+  </a>
 </p>
 
 ---
