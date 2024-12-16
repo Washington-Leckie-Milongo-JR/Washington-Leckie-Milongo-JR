@@ -1,23 +1,74 @@
-<h1 align="center">Hi 👋, I'm WASHINGTON LECKIE MILONGO</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Washington Leckie Milongo</h1>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=washington-leckie-milongo-jr&label=Profile%20views&color=0e75b6&style=flat" alt="washington-leckie-milongo-jr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=washington-leckie-milongo-jr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+---
 
-- 💬 Ask me about **Website development**
+- 🌱 **Currently Learning:** Vue.js and advanced frontend development.  
 
-- 📫 How to reach me **washingtonleckie74@gmail.com**
+- 💬 **Ask Me About:** Responsive Web Design, Frontend Development, and crafting engaging user experiences.  
 
-<h3 align="left">Connect with me:</h3>
+- 🎯 **Career Objective:** To contribute to impactful web development projects by leveraging my skills in HTML5, CSS3, JavaScript, Bootstrap, and Vue.js.  
+
+- 📫 **How to Reach Me:**  
+  [📧 Email Me](mailto:washingtonleckie74@gmail.com)  
+
+---
+
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
+<!-- <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
+</a> -->
+<a href="https://github.com/washington-leckie-milongo-jr" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=washington-leckie-milongo-jr&show_icons=true&locale=en&layout=compact" alt="washington-leckie-milongo-jr" /></p>
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=washington-leckie-milongo-jr&show_icons=true&locale=en" alt="washington-leckie-milongo-jr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=washington-leckie-milongo-jr&" alt="washington-leckie-milongo-jr" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=washington-leckie-milongo-jr&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=washington-leckie-milongo-jr&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=washington-leckie-milongo-jr&" alt="GitHub Streak Stats" /></p>
+
+---
+
+<h3 align="left">📂 Technical Projects:</h3>
+- **Case Assignment System for Courts**  
+  *Role: Lead Frontend Developer*  
+  - Developed a web-based application for automating case distribution in the Court of Appeal of Kenya.  
+  - Designed responsive user interfaces and created interactive dashboards for judges and administrators.  
+  - Worked with back-end developers to integrate APIs and enabled real-time updates on case assignments.  
+  - Conducted user testing and applied feedback for UI optimization.  
+
+---
+
+### 🌱 **Learning & Development:**  
+- Continuously expanding my skill set in **Vue.js** and exploring modern frameworks to create intuitive and engaging user interfaces.  
+
+---
