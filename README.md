@@ -5,11 +5,14 @@
 
 ---
 
-- 🌱 **Skilled in:** JavaScript, Vue.js, and modern frontend technologies.
+- **Skilled in:** 
+JavaScript, Vue.js, HTML5, CSS3, Bootstrap, and modern frontend technologies.
 
-- 💬 **Ask Me About:** Responsive Web Design, Frontend Development, crafting engaging user experiences and Data Visualization.
+- **Ask Me About:** 
+Responsive Web Design, Frontend Development, crafting engaging user experiences, and Data Visualization.
 
-- 🎯 **Career Objective:** To contribute to impactful Web Development Projects by leveraging my skills in **HTML5** && **CSS3**, **Js**, **Bootstrap**, **Vue.js**, **MySQL**.
+- **Career Objective:** 
+Vue-powered. Pixel-perfect. Data-ready
 
 - <h3 align="left">📫 Reach me via Email:</h3>
 <p align="left">
