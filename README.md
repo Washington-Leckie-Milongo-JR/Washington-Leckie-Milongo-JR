@@ -17,12 +17,3 @@
 </p>
 
 ---
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=washington-leckie-milongo-jr&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=washington-leckie-milongo-jr&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=washington-leckie-milongo-jr&" alt="GitHub Streak Stats" /></p>
-
----
