@@ -13,7 +13,7 @@
 
 - <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-  <a href="mailto:washingtonleckie74@gmail.com"> **washingtonleckie74@gmail.com** </a>
+  <a href="mailto:washingtonleckie74@gmail.com"> <b>washingtonleckie74@gmail.com</b></a>
 </p>
 
 ---
