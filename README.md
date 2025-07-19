@@ -11,7 +11,7 @@
 
 - 🎯 **Career Objective:** To contribute to impactful Web Development Projects by leveraging my skills in **HTML5** && **CSS3**, **Js**, **Bootstrap**, **Vue.js**, **MySQL**.
 
-- <h3 align="left">📫 How to reach me:</h3>
+- <h3 align="left">📫 Reach me via Email:</h3>
 <p align="left">
   <a href="mailto:washingtonleckie74@gmail.com"> <b>washingtonleckie74@gmail.com</b></a>
 </p>
