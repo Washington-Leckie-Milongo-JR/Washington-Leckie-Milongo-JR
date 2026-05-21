@@ -6,7 +6,7 @@
 ---
 
 - **Skilled in:** 
-PHP, JavaScript, Vue.js, HTML5, CSS3, Bootstrap, and modern frontend technologies.
+PHP, JavaScript, Vue.js, MYSQL, HTML5, CSS3, Bootstrap, and modern frontend technologies.
 
 - **Ask Me About:** 
 Responsive Web Design, Frontend Development, crafting engaging user experiences, and Data Visualization.
